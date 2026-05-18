@@ -43,7 +43,7 @@
   "theme": {
     "mode": "dark",
     "light": "Ayu Light",
-    "dark": "VSCode Dark Modern",
+    "dark": "Ayu Dark",
   },
   "terminal": {
     "font_family": "CaskaydiaCove Nerd Font",
